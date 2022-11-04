@@ -4,4 +4,6 @@ My repositore.
 
 Wow.
 
-## nocne zmiany
+## nocne zmiany 
+
+## lepsze zmiany
